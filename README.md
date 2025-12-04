@@ -1,131 +1,50 @@
-<!-- README: Anime Techcore — DIVYANSH CHAUHAN -->
-<h1 align="center">
-  <img alt="anime-banner" src="data:image/svg+xml;utf8,
-  %3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='240'%3E
-    %3Cdefs%3E
-      %3ClinearGradient id='g' x1='0' x2='1'%3E
-        %3Cstop offset='0' stop-color='%23FFD2F0'/%3E
-        %3Cstop offset='0.5' stop-color='%2372DDF7'/%3E
-        %3Cstop offset='1' stop-color='%238A7CFF'/%3E
-      %3C/linearGradient%3E
-    %3C/defs%3E
-    %3Crect width='1200' height='240' fill='%23101624'/%3E
-    %3Ctext x='50%25' y='50%25' font-family='Segoe UI, Inter, Roboto' font-size='44' fill='url(%23g)' text-anchor='middle' dominant-baseline='middle' font-weight='700'%3EDIVYANSH — ANIME TECHCORE CREATOR%3C/text%3E
-    %3Ccircle cx='1080' cy='40' r='120' fill='%2339FFB7' opacity='0.12'/%3E
-  %3C/svg%3E" width="100%" style="max-width:1200px; border-radius:12px; display:block; margin: 0 auto;" />
-</h1>
+# 💫 About Me:
 
-<p align="center">
-  <img alt="anime avatar" src="https://api.dicebear.com/6.x/adventurer/svg?seed=Divyansh-TechGenius&accessories=round_glasses&backgroundType=gradientLinear&palette=all" width="150" style="border-radius:28px; border: 3px solid rgba(255,255,255,0.04); box-shadow: 0 15px 35px rgba(10,10,18,0.6);" />
-</p>
+<h2>Hi 👋! My name is DIVYANSH CHAUHAN 👨‍💻 and I'm a WEB DEV 🚀from INDIA 🏳️‍🌈</h2>
 
-<h2 align="center">👨‍💻 DIVYANSH CHAUHAN — Anime-tech dev with a neon brain</h2>
-<p align="center"><em>Frontend nerd • 3D tinkerer • loves gradients & glassmorphism</em></p>
+<br clear="both">
 
----
+# 📊 GitHub Stats:
 
-## 🌟 Intro — micro-story
-> started as a curious kid with a laptop, now building interfaces that feel alive.  
-> **vibe:** anime protagonist doing full-stack dev hours.
-
----
-
-## 💻 Skills — curated & colorful
-
-**Frontend Languages**  
-HTML5 • CSS3 • JavaScript • TypeScript • Three.js
-
-**Frontend Frameworks**  
-React • Vite • Vue • Svelte • Angular • Next.js • Nuxt.js
-
-**CSS / UI**  
-Tailwind • Bootstrap • SASS • Bulma • Materialize
-
-**Backend**  
-Node.js • Express • Python • .NET Core • PHP (Laravel)
-
-**DBs**  
-PostgreSQL • MySQL • MongoDB • Firebase
-
-**Auth**  
-JWT • OAuth • Passport.js • Firebase Auth
-
-**APIs & Realtime**  
-REST • GraphQL • WebSockets
-
-**DevOps & Hosting**  
-GitHub • Netlify • Vercel • Firebase Host • DigitalOcean • AWS • Docker • Jenkins
-
-**Payment & Tools**  
-Jira (Atlassian) • PhonePe • Razorpay
-
----
-
-## 🔮 Cool Animated Cards (use these as repo cards)
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="top" style="padding:12px;">
-        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js" /><br/>
-        <strong>3D Playground</strong><br/>
-        <sub>Interactive WebGL experiments</sub>
-      </td>
-      <td align="center" valign="top" style="padding:12px;">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" /><br/>
-        <strong>SaaS Dashboard</strong><br/>
-        <sub>Next + Tailwind + Postgres</sub>
-      </td>
-      <td align="center" valign="top" style="padding:12px;">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" /><br/>
-        <strong>Realtime Chat</strong><br/>
-        <sub>Socket powered & comfy UI</sub>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=im-divxnshh&theme=merko&hide_border=false&include_all_commits=true&count_private=true" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px;" height="190" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-divxnshh&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px;" height="190" alt="Top Languages" />
 </div>
 
----
+<div align="center" style="margin-top: 20px;">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-divxnshh&theme=merko&hide_border=true" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px;" height="200" alt="GitHub Streak Stats" />
+  
+</div>
 
-## 📊 GitHub Flex
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-divxnshh&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-divxnshh&layout=compact&theme=radical" height="160" />
-</p>
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=im-divxnshh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="right" height="250" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" alt="GIF" />
 
-## 🎯 What I'm building
-- **Interactive 3D portfolio** — Three.js + React + WebGL shaders  
-- **Realtime collaboration tool** — WebSockets + Node + Redis  
-- **Small indie SaaS** — Next.js + Postgres + Stripe/Razorpay
 
 ---
+[![](https://visitcount.itsvg.in/api?id=im-divxnshh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tools & Badges
-<p align="center">
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
----
 
-## 🔗 Social & Contact
-<p align="center">
-  <a href="https://www.instagram.com/itz_divy4sh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://www.linkedin.com/in/divaysnh-chauhan-0b9685342/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:divyansh20060@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
-</p>
 
----
+## 🌐 Socials:
 
-## 🐍 Dev Snake & Footer
-<p align="center">
-  <img src="https://raw.githubusercontent.com/im-divxnshh/im-divxnshh/output/snake.svg" alt="snake" />
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1079830707339268327) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570796335159) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itz_divy4sh/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divaysnh-chauhan-0b9685342/) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%238BC34A.svg?logo=WhatsApp&logoColor=white)](https://wa.me/9719688888) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:divyansh20060@gmail.com)
 
-<p align="center">
-  <em>Let's ship beautiful code. Ping me — <strong>Divyansh</strong>.</em>
-</p>
+✨ "Driven by curiosity, powered by technology, and fueled by innovation!" Let's collaborate or connect! 💬
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-divxnshh" alt="im-divxnshh" /></a></p>
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/im-divxnshh/im-divxnshh/output/snake.svg" alt="Snake animation" />
