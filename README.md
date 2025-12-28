@@ -19,8 +19,7 @@
 
 <!-- ROW 2 (centered under both) -->
 <div align="center" style="margin-top: -10px;">
-  <img src="https://im-divxnshh.github.io/stats-server/svg/streak.svg?v=3" width="500" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=im-divxnshh&theme=merko" alt="GitHub Streak" /></a></div>
 
 
 
