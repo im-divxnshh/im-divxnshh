@@ -6,10 +6,14 @@
 
 # 📊 GitHub Stats:
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
- <img src="[https://im-divxnshh.github.io/stats-server/svg/stats.svg](https://im-divxnshh.github.io/stats-server/svg/stats.svg
-)" width="700" />
+<div align="center">
+
+  <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg" width="700" />
+
+  <br/><br/>
+
   <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg" width="700" />
+
 </div>
 
 <div align="center" style="margin-top: 20px;">
