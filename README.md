@@ -1,83 +1,114 @@
 <!-- 🔥 ANIME THUNDER INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD93D&size=32&center=true&vCenter=true&width=900&lines=⚡+DIVYANSH+CHAUSHAN+%7C+DUGGU+⚡;Full-Stack+Developer+%7C+Thunder+Coder;Building+Modern+Web+%2B+AI+%2B+Automation+Systems;Anime-Fueled+Productivity+%7C+Gen-Z+Tech+Vibes" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD93D&size=32&center=true&vCenter=true&width=900&lines=⚡+DIVYANSH+CHAUHAN+%7C+SAHIL+⚡;Full-Stack+Developer+%7C+Thunder+Coder;Building+Modern+Web+%2B+AI+%2B+Automation+Systems;Anime-Fueled+Productivity+%7C+Gen-Z+Tech+Vibes" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q5bHlmNWU3dTVvdHlrazhnZ2plNmZ0ZTdsc2t5MXhrOXVrMWZhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="300"/>
 </p>
 
-# 💫 About Me
+<!-- 🌩️ ANIME INTRO PANEL -->
+<div align="center" style="position: relative;">
 
-<div align="center">
-<img src="https://media.tenor.com/8Z287vNBPcIAAAAi/zenitsu-anime.gif" width="250"/>
+  <!-- Floating lightning background -->
+  <img src="https://media.tenor.com/fCpbCzsB2-kAAAAC/zenitsu.gif"
+       width="260"
+       style="position: relative; filter: drop-shadow(0 0 25px #ffdd33);">
 
-### ⚡ **Hey, I’m Divyansh Chauhan — aka Duggu**  
-The *Thunder Dev* who codes like Zenitsu fights:  
-fast, cracked, and glowing in neon yellow.
+  <!-- Neon Aura Particles -->
+  <img src="https://media.tenor.com/aC7X-fyKHJcAAAAi/sparkles-stars.gif"
+       width="120"
+       style="position:absolute; top:10px; right:50px; opacity:0.8;">
+  <img src="https://media.tenor.com/aC7X-fyKHJcAAAAi/sparkles-stars.gif"
+       width="110"
+       style="position:absolute; bottom:10px; left:50px; opacity:0.7;">
+
+  <h1 style="color:#ffdd33; text-shadow:0 0 20px #ffdd33;">
+    ⚡ Divyansh "Sahil" Chauhan — Thunder Dev Mode ⚡
+  </h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23ffe66d&size=25&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Anime-powered+Coder;AI+%2F+ML+Explorer+%7C+Web3+Learner;GenZ+Tech+Energy+%7C+Lightning+Speed+Execution+⚡"
+       alt="typing animation" />
 </div>
 
 <br/>
 
+<!-- 🌈 GLOWING ANIME CARD WITH HOVER EFFECT -->
 <div align="center" style="
-background: #0a0a0a;
-padding: 20px;
-border-radius: 20px;
-border: 2px solid #ffdd33;
-box-shadow: 0 0 20px #ffdd33;
+background: linear-gradient(135deg, rgba(255,221,51,0.25), rgba(124,58,237,0.25), #0a0a0a);
+padding: 25px;
+border-radius: 22px;
+border: 3px solid #ffdd33;
+box-shadow: 0 0 25px #ffdd33, 0 0 45px #7c3aed;
 width: 90%;
-margin: auto;
-">
-  
-### 🚀 Meet Me  
-Hey there! I'm **Divyansh Chauhan (Duggu⚡)** —  
-a developer who vibes at the intersection of anime energy and cutting-edge tech.
+transition: 0.3s;
+"
+onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 35px #ffdd33, 0 0 75px #7c3aed';"
+onmouseout="this.style.transform='scale(1.0)'; this.style.boxShadow='0 0 25px #ffdd33, 0 0 45px #7c3aed';"
+>
 
-🔥 I build **Web Apps**, **Mobile Apps**  
-🧠 experiment with **AI/ML**  
-🔗 explore **Web3 & Blockchain**  
-🛠 automate systems with **DevOps**
+<img src="https://media.tenor.com/YZPnGuPeZv8AAAAi/cute-cat.gif" width="120" style="margin-bottom: 10px;">
+
+### 🚀 Meet Me  
+Yo! I’m **Divyansh (Sahil) — aka Duggu⚡**,  
+a developer powered by anime energy + GenZ chaos + caffeine.
+
+- ⚡ I build Web & Mobile Apps  
+- 🧠 I experiment with AI/ML & Data  
+- 🔗 I explore Web3 & Blockchain  
+- 🛠 I automate everything with DevOps  
+- 🎨 I design neon-modern UI with anime vibes  
 
 🎓 BCA Graduate  
-⚡ Always leveling up like a Shonen protagonist  
-💻 Obsessed with clean, modern UI + fast apps
-
+🔥 Levelling up like a Shonen Hero  
+🐱 Cat GIF-powered productivity  
+💛 Living in thunder mode  
 </div>
 
-<p align="center">━━━━━━━━━━⚡━━━━━━━━━━</p>
+<p align="center">✨━━━━━━━━━━⚡🌙⚡━━━━━━━━━━✨</p>
 
-# 🧪 Hacker Terminal
-┌──(duggu㉿github)-[~/powers]
+<!-- 🎮 GAMING DASHBOARD TERMINAL -->
+<div align="center">
+
+<img src="https://media.tenor.com/3bTxZ4Hd6K8AAAAC/cat-computer.gif" width="180">
+
+<br/>
+
+<!-- Animated terminal typing -->
+<img src="https://readme-typing-svg.herokuapp.com?color=%23ffdd33&size=22&center=true&vCenter=true&width=700&lines=sahil@github+%23+activating+developer+mode...;loading+full-stack+abilities...;initializing+AI+%2F+ML...;booting+Web3+modules...;system+online+⚡" />
+
+┌──(sahil㉿github)-[~/anime-mode]
 │
-├── ⚡ Full-Stack Developer
-├── 🧠 AI/ML Explorer
-├── 🔗 Web3 Curious
-├── 🛠 Automation Engineer
-└── 🌀 Leveling Up Daily…
+├── ⚡ Role: Full-Stack Developer
+├── 🧠 Focus: AI/ML + Data
+├── 🔗 Exploring: Web3, Blockchain
+├── 🚀 Grinding: DevOps Pipelines
+├── 😼 Supported by: Cat GIF Energy
+└── 🌀 Status: Ultra Instinct Mode…
 
-
-
-<p align="center">━━━━━━━━━━⚡━━━━━━━━━━</p>
-
-# 🎮 Anime Character Stats — *Thunder Form ⚡*
-
-<div align="center">
-  <img src="https://media.tenor.com/1xBKG_Nj0Y0AAAAC/zenitsu-zenitsu-agatsuma.gif" width="180">
-</div>
-
-<div align="center">
-  
-| Attribute | Power |
-|----------|--------|
-| ⚡ Speed | 🔥🔥🔥🔥🔥🔥 |
-| 💛 Intelligence | 🔥🔥🔥🔥 |
-| 🧠 Focus Mode | 🔥🔥🔥🔥🔥 |
-| 🎮 Coding Power | 🔥🔥🔥🔥🔥 |
-| 😭 Bug Resistance | 🔥🔥 |
-| 💀 Sleep Schedule | ❌ |
 
 </div>
 
+<p align="center">🌈━━━━━━━━━━💛⚡💛━━━━━━━━━━🌈</p>
+
+<!-- 🐉 ANIME CHARACTER CARD -->
+<div align="center">
+
+<img src="https://media.tenor.com/n4J4vNysGEgAAAAC/zenitsu-agatsuma-anime.gif" width="200" style="filter: drop-shadow(0 0 25px #ffdd33);">
+
+### 🎮 **Thunder Form — Character Stats**
+
+| Attribute | Power Level |
+|----------|-------------|
+| ⚡ Speed Mode | 🌩️🌩️🌩️🌩️🌩️🌩️ |
+| 🧠 Brainpower | 💜💜💜💜 |
+| 👨‍💻 Coding Rage | 🔥🔥🔥🔥🔥 |
+| 🌀 Gojo Focus | ♾️♾️♾️♾️♾️ |
+| 😭 Bug Tolerance | 😵😵 |
+| 💀 Sleep Cycle | 🚫💀 |
+</div>
+
+<p align="center">💥━━━━━━━━━━⚡🔥⚡━━━━━━━━━━💥</p>
 <p align="center">━━━━━━━━━━⚡━━━━━━━━━━</p>
 
 # 📊 GitHub Stats
