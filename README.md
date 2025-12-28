@@ -7,13 +7,18 @@
 # 📊 GitHub Stats
 
 <!-- ROW 1 -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-  <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg?v=3" width="450" />
+  <div style="width: 450px; height: 320px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg?v=4" style="max-width: 100%; max-height: 100%;" />
+  </div>
 
-  <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg?v=3" width="450" />
+  <div style="width: 450px; height: 320px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg?v=4" style="max-width: 100%; max-height: 100%;" />
+  </div>
 
 </div>
+
 
 <br/>
 
