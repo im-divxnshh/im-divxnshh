@@ -4,168 +4,106 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q5bHlmNWU3dTVvdHlrazhnZ2plNmZ0ZTdsc2t5MXhrOXVrMWZhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="300"/>
+  <img src="https://media1.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="250"/>
 </p>
 
-<!-- 🌩️ ANIME INTRO PANEL -->
-<div align="center" style="position: relative;">
+---
 
-  <!-- Floating lightning background -->
-  <img src="https://media.tenor.com/fCpbCzsB2-kAAAAC/zenitsu.gif"
-       width="260"
-       style="position: relative; filter: drop-shadow(0 0 25px #ffdd33);">
+# ⚡ About Me — Thunder Mode  
+<div align="center">
 
-  <!-- Neon Aura Particles -->
-  <img src="https://media.tenor.com/aC7X-fyKHJcAAAAi/sparkles-stars.gif"
-       width="120"
-       style="position:absolute; top:10px; right:50px; opacity:0.8;">
-  <img src="https://media.tenor.com/aC7X-fyKHJcAAAAi/sparkles-stars.gif"
-       width="110"
-       style="position:absolute; bottom:10px; left:50px; opacity:0.7;">
+<img src="https://media.tenor.com/fCpbCzsB2-kAAAAC/zenitsu.gif" width="180"/>
 
-  <h1 style="color:#ffdd33; text-shadow:0 0 20px #ffdd33;">
-    ⚡ Divyansh Chauhan — Thunder Dev Mode ⚡
-  </h1>
+### ⚡ **Divyansh (Sahil) — The Thunder Developer**
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23ffe66d&size=25&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Anime-powered+Coder;AI+%2F+ML+Explorer+%7C+Web3+Learner;GenZ+Tech+Energy+%7C+Lightning+Speed+Execution+⚡"
-       alt="typing animation" />
-</div>
-
-<br/>
-
-<!-- 🌈 GLOWING ANIME CARD WITH HOVER EFFECT -->
-<div align="center" style="
-background: linear-gradient(135deg, rgba(255,221,51,0.25), rgba(124,58,237,0.25), #0a0a0a);
-padding: 25px;
-border-radius: 22px;
-border: 3px solid #ffdd33;
-box-shadow: 0 0 25px #ffdd33, 0 0 45px #7c3aed;
-width: 90%;
-transition: 0.3s;
-"
-onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 35px #ffdd33, 0 0 75px #7c3aed';"
-onmouseout="this.style.transform='scale(1.0)'; this.style.boxShadow='0 0 25px #ffdd33, 0 0 45px #7c3aed';"
->
-
-<img src="https://media.tenor.com/YZPnGuPeZv8AAAAi/cute-cat.gif" width="120" style="margin-bottom: 10px;">
-
-<!-- 🌈 ABOUT CARD WITH NEON GLOW -->
-<div align="center" style="
-background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
-border-radius: 20px;
-padding: 25px;
-width: 90%;
-border: 2px solid #ffd93d;
-box-shadow: 0 0 25px #ffea77, 0 0 65px #7d41ff;
-position: relative;
-">
-
-  <!-- lightning floating background -->
-  <img src="https://media.tenor.com/fCpbCzsB2-kAAAAC/zenitsu.gif" 
-       width="150" 
-       style="position:absolute; left:-10px; top:-10px; opacity:0.75; filter:drop-shadow(0 0 25px #ffdd33);" />
-
-  <img src="https://media.tenor.com/fCpbCzsB2-kAAAAC/zenitsu.gif"
-       width="150"
-       style="position:absolute; right:-10px; top:-10px; opacity:0.75; filter:drop-shadow(0 0 25px #ffdd33);" />
-
-  <h1 style="color:#ffdd33; text-shadow:0 0 20px #ffdd33; font-size:33px;">
-    ⚡ Divyansh (Sahil) — The Thunder Developer ⚡
-  </h1>
-
-  <p style="color:#ffeaa7; font-size:18px; max-width:700px;">
-    A full-stack developer with anime energy, Gen-Z chaos, and caffeine-based superpowers.
-    I build aesthetic, fast, eye-candy interfaces that hit like Zenitsu’s Thunderclap & Flash ⚡.
-  </p>
-
-  <div style="
-    background:#111;
-    border-radius:18px;
-    padding:20px;
-    margin-top:20px;
-    border:1px solid #ffdd33;
-    box-shadow:0 0 15px #ffdd33;
-    color:white;
-    width:85%;
-    font-size:18px;
-  ">
-  
-  <ul style="list-style:none; padding-left:0; line-height:28px;">
-    <li>⚡ Building Web & Mobile Apps</li>
-    <li>🧠 Experimenting with AI/ML & Data</li>
-    <li>🔗 Exploring Web3 & Blockchain</li>
-    <li>🛠 Automating workflows with DevOps</li>
-    <li>🎨 Designing neon-modern UI with anime vibes</li>
-  </ul>
-
-  <p>🔥 Leveling up like a shonen hero • 🐱 Powered by cat gifs • 💛 Living in thunder mode</p>
-
-  </div>
-  
-</div>
-
-<br/>
-
-<!-- 🎮 TERMINAL CARD -->
-<div align="center" style="
-background:#0d0d0d;
-border-radius:20px;
-padding:25px;
-width:85%;
-border:2px solid #7d41ff;
-box-shadow:0 0 25px #8f5bff, 0 0 45px #4e1dff;
-">
-
-<img src="https://media.tenor.com/3bTxZ4Hd6K8AAAAC/cat-computer.gif" width="160" style="margin-bottom:10px;"/>
-
-<!-- terminal typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=%23A78BFA&size=22&center=true&vCenter=true&width=650&lines=sahil@github+%7C+Initializing+Thunder+Mode...;Loading+Full+Stack+Abilities...;Booting+AI+Modules...;Launching+Web3+Protocols...;System+Ready+⚡" />
-
-<pre style="text-align:left; color:#bdafff; font-size:16px; background:transparent;">
-┌──(sahil㉿github)-[~/anime-mode]
-│
-├── ⚡ Role: Full-Stack Developer
-├── 🧠 Focus: AI/ML + Data
-├── 🔗 Exploring: Web3, Blockchain
-├── 🚀 Grinding: DevOps Pipelines
-├── 😼 Powered By: Cat GIF Energy
-└── 🌀 Status: Ultra Instinct Mode…
-</pre>
+A full-stack developer with anime energy, Gen-Z chaos and caffeine-powered productivity.  
+I build aesthetic, fast interfaces that hit like **Thunderclap & Flash ⚡**.
 
 </div>
 
-<br/>
+---
 
-<!-- 🐉 CHARACTER POWER PANEL -->
-<div align="center" style="
-background: linear-gradient(135deg, #1a1a1a, #000000);
-padding: 25px;
-border-radius: 22px;
-border: 2px solid #ffdd33;
-box-shadow: 0 0 25px #ffdd33, 0 0 65px #7d41ff;
-width: 85%;
-">
+## 🚀 What I Do  
+<div align="center">
 
-<img src="https://media.tenor.com/n4J4vNysGEgAAAAC/zenitsu-agatsuma-anime.gif" 
-     width="200"
-     style="filter:drop-shadow(0 0 20px #ffdd33); margin-bottom:10px;" />
+- ⚡ Full Stack Web & Mobile Development  
+- 🧠 AI / Machine Learning Experiments  
+- 🔗 Web3 & Blockchain Exploration  
+- 🛠 Automation + DevOps Pipelines  
+- 🎨 Neon UI / Anime-Themed Design  
 
-<h2 style="color:#ffdd33; text-shadow:0 0 15px #ffdd33;">
-🎮 Thunder Form — Character Stats
-</h2>
+🔥 Leveling up like a shonen hero  
+🐱 Cat-GIF powered productivity  
+⚡ Forever in Thunder Mode  
+</div>
 
-<table style="width:80%; font-size:18px; color:white;">
-  <tr><td>⚡ Speed Mode</td><td>🌩️🌩️🌩️🌩️🌩️🌩️</td></tr>
-  <tr><td>🧠 Brainpower</td><td>💜💜💜💜</td></tr>
-  <tr><td>👨‍💻 Coding Rage</td><td>🔥🔥🔥🔥🔥</td></tr>
-  <tr><td>🌀 Gojo Focus</td><td>♾️♾️♾️♾️♾️</td></tr>
-  <tr><td>😭 Bug Tolerance</td><td>😵😵</td></tr>
-  <tr><td>💀 Sleep Cycle</td><td>🚫💀</td></tr>
-</table>
+---
+
+# 🎮 Developer XP Progress (HUD)
+🟣 Front-end ███████████████░░░ 87%
+💛 Back-end █████████████░░░░░ 72%
+🔵 AI / Machine Learning ███████████░░░░░░░ 60%
+⚡ Web3 / Blockchain █████████░░░░░░░░░ 45%
+🛠 DevOps ██████████████░░░░ 80%
+
+yaml
+Copy code
+
+---
+
+# 🔮 Neon Skill Badges  
+<div align="center">
+
+<img src="https://img.shields.io/badge/⚡_Full_Stack-7D41FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Engineer-A78BFA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web3_Explorer-FFD93D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DevOps_Automator-FF7EDB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI/UX_Neon_Designer-34D399?style=for-the-badge" />
 
 </div>
 
-<p align="center"><img src="https://media.tenor.com/YNxUiuJ8S2sAAAAC/lightning-anime.gif" width="250"></p>
+---
+
+# 🧪 Cyber Terminal — Ultra Instinct Mode  
+<div align="center">
+
+<img src="https://media.tenor.com/3bTxZ4Hd6K8AAAAC/cat-computer.gif" width="160"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%23A78BFA&size=22&center=true&vCenter=true&width=650&lines=Accessing+Sahil's+Dev+Terminal...;Loading+Modules...;System+Online+⚡" />
+
+</div>
+
+╔══════════════════════════════════════════╗
+║ 🚀 SAHIL'S CYBER TERMINAL v5.0 ║
+╠══════════════════════════════════════════╣
+║ ⚡ ROLE: Full-Stack Developer ║
+║ 🧠 FOCUS: AI/ML + Data Engineering ║
+║ 🔗 WEB3: Smart Contracts + Blockchain ║
+║ 🚀 DEVOPS: CI/CD • Docker • Pipelines ║
+║ 😼 POWER: Cat GIF Overload ║
+║ 🌀 MODE: ULTRA INSTINCT ACTIVATED ║
+╚══════════════════════════════════════════╝
+
+
+
+---
+
+# 🐉 Anime Character — Thunder Form ⚡  
+<div align="center">
+
+<img src="https://media.tenor.com/n4J4vNysGEgAAAAC/zenitsu-agatsuma-anime.gif" width="200"/>
+
+| Attribute | Power |
+|----------|--------|
+| ⚡ Speed Mode | 🌩️🌩️🌩️🌩️🌩️🌩️ |
+| 🧠 Brainpower | 💜💜💜💜 |
+| 👨‍💻 Coding Rage | 🔥🔥🔥🔥🔥 |
+| 🌀 Gojo Focus | ♾️♾️♾️♾️♾️ |
+| 😭 Bug Tolerance | 😵😵 |
+| 💀 Sleep Cycle | 🚫💀 |
+
+</div>
+
 
 
 <p align="center">💥━━━━━━━━━━⚡🔥⚡━━━━━━━━━━💥</p>
