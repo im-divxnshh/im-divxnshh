@@ -7,17 +7,13 @@
 # 📊 GitHub Stats:
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=im-divxnshh&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="190" />
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=im-divxnshh&theme=merko&layout=compact&hide_border=false" height="190" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=im-divxnshh&theme=merko&hide_border=false&include_all_commits=true&count_private=true" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px;" height="190" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-divxnshh&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px;" height="190" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-
-  <img src="https://streak-stats.demolab.com?user=im-divxnshh&theme=merko&hide_border=false" height="200" />
-
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=im-divxnshh&theme=merko" alt="GitHub Streak" /></a>
+  
 </div>
 
 
