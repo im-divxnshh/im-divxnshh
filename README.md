@@ -8,11 +8,11 @@
 
 <div align="center">
 
-  <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg" width="700" />
+  <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg?v=1" width="700" />
 
   <br/><br/>
 
-  <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg" width="700" />
+  <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg?v=1" width="700" />
 
 </div>
 
