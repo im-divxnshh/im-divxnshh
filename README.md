@@ -16,6 +16,12 @@
   
 </div>
 
+<p align="center">
+  <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg" width="700" />
+  <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg" width="700" />
+  <img src="https://im-divxnshh.github.io/stats-server/svg/streak.svg" width="700" />
+</p>
+
 
 
 ### 🔝 Top Contributed Repo
