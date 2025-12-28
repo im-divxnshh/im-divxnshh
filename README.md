@@ -7,8 +7,8 @@
 # 📊 GitHub Stats:
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-divxnshh&theme=merko&hide_border=false&include_all_commits=true&count_private=true" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px;" height="190" alt="GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-divxnshh&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px;" height="190" alt="Top Languages" />
+ <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg" width="700" />
+  <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg" width="700" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -16,11 +16,6 @@
   
 </div>
 
-<p align="center">
-  <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg" width="700" />
-  <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg" width="700" />
-  <img src="https://im-divxnshh.github.io/stats-server/svg/streak.svg" width="700" />
-</p>
 
 
 
