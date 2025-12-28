@@ -24,7 +24,7 @@
        style="position:absolute; bottom:10px; left:50px; opacity:0.7;">
 
   <h1 style="color:#ffdd33; text-shadow:0 0 20px #ffdd33;">
-    ⚡ Divyansh "Sahil" Chauhan — Thunder Dev Mode ⚡
+    ⚡ Divyansh Chauhan — Thunder Dev Mode ⚡
   </h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?color=%23ffe66d&size=25&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Anime-powered+Coder;AI+%2F+ML+Explorer+%7C+Web3+Learner;GenZ+Tech+Energy+%7C+Lightning+Speed+Execution+⚡"
@@ -49,64 +49,124 @@ onmouseout="this.style.transform='scale(1.0)'; this.style.boxShadow='0 0 25px #f
 
 <img src="https://media.tenor.com/YZPnGuPeZv8AAAAi/cute-cat.gif" width="120" style="margin-bottom: 10px;">
 
-### 🚀 Meet Me  
-Yo! I’m **Divyansh (Sahil) — aka Duggu⚡**,  
-a developer powered by anime energy + GenZ chaos + caffeine.
+<!-- 🌈 ABOUT CARD WITH NEON GLOW -->
+<div align="center" style="
+background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+border-radius: 20px;
+padding: 25px;
+width: 90%;
+border: 2px solid #ffd93d;
+box-shadow: 0 0 25px #ffea77, 0 0 65px #7d41ff;
+position: relative;
+">
 
-- ⚡ I build Web & Mobile Apps  
-- 🧠 I experiment with AI/ML & Data  
-- 🔗 I explore Web3 & Blockchain  
-- 🛠 I automate everything with DevOps  
-- 🎨 I design neon-modern UI with anime vibes  
+  <!-- lightning floating background -->
+  <img src="https://media.tenor.com/fCpbCzsB2-kAAAAC/zenitsu.gif" 
+       width="150" 
+       style="position:absolute; left:-10px; top:-10px; opacity:0.75; filter:drop-shadow(0 0 25px #ffdd33);" />
 
-🎓 BCA Graduate  
-🔥 Levelling up like a Shonen Hero  
-🐱 Cat GIF-powered productivity  
-💛 Living in thunder mode  
+  <img src="https://media.tenor.com/fCpbCzsB2-kAAAAC/zenitsu.gif"
+       width="150"
+       style="position:absolute; right:-10px; top:-10px; opacity:0.75; filter:drop-shadow(0 0 25px #ffdd33);" />
+
+  <h1 style="color:#ffdd33; text-shadow:0 0 20px #ffdd33; font-size:33px;">
+    ⚡ Divyansh (Sahil) — The Thunder Developer ⚡
+  </h1>
+
+  <p style="color:#ffeaa7; font-size:18px; max-width:700px;">
+    A full-stack developer with anime energy, Gen-Z chaos, and caffeine-based superpowers.
+    I build aesthetic, fast, eye-candy interfaces that hit like Zenitsu’s Thunderclap & Flash ⚡.
+  </p>
+
+  <div style="
+    background:#111;
+    border-radius:18px;
+    padding:20px;
+    margin-top:20px;
+    border:1px solid #ffdd33;
+    box-shadow:0 0 15px #ffdd33;
+    color:white;
+    width:85%;
+    font-size:18px;
+  ">
+  
+  <ul style="list-style:none; padding-left:0; line-height:28px;">
+    <li>⚡ Building Web & Mobile Apps</li>
+    <li>🧠 Experimenting with AI/ML & Data</li>
+    <li>🔗 Exploring Web3 & Blockchain</li>
+    <li>🛠 Automating workflows with DevOps</li>
+    <li>🎨 Designing neon-modern UI with anime vibes</li>
+  </ul>
+
+  <p>🔥 Leveling up like a shonen hero • 🐱 Powered by cat gifs • 💛 Living in thunder mode</p>
+
+  </div>
+  
 </div>
-
-<p align="center">✨━━━━━━━━━━⚡🌙⚡━━━━━━━━━━✨</p>
-
-<!-- 🎮 GAMING DASHBOARD TERMINAL -->
-<div align="center">
-
-<img src="https://media.tenor.com/3bTxZ4Hd6K8AAAAC/cat-computer.gif" width="180">
 
 <br/>
 
-<!-- Animated terminal typing -->
-<img src="https://readme-typing-svg.herokuapp.com?color=%23ffdd33&size=22&center=true&vCenter=true&width=700&lines=sahil@github+%23+activating+developer+mode...;loading+full-stack+abilities...;initializing+AI+%2F+ML...;booting+Web3+modules...;system+online+⚡" />
+<!-- 🎮 TERMINAL CARD -->
+<div align="center" style="
+background:#0d0d0d;
+border-radius:20px;
+padding:25px;
+width:85%;
+border:2px solid #7d41ff;
+box-shadow:0 0 25px #8f5bff, 0 0 45px #4e1dff;
+">
 
+<img src="https://media.tenor.com/3bTxZ4Hd6K8AAAAC/cat-computer.gif" width="160" style="margin-bottom:10px;"/>
+
+<!-- terminal typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?color=%23A78BFA&size=22&center=true&vCenter=true&width=650&lines=sahil@github+%7C+Initializing+Thunder+Mode...;Loading+Full+Stack+Abilities...;Booting+AI+Modules...;Launching+Web3+Protocols...;System+Ready+⚡" />
+
+<pre style="text-align:left; color:#bdafff; font-size:16px; background:transparent;">
 ┌──(sahil㉿github)-[~/anime-mode]
 │
 ├── ⚡ Role: Full-Stack Developer
 ├── 🧠 Focus: AI/ML + Data
 ├── 🔗 Exploring: Web3, Blockchain
 ├── 🚀 Grinding: DevOps Pipelines
-├── 😼 Supported by: Cat GIF Energy
+├── 😼 Powered By: Cat GIF Energy
 └── 🌀 Status: Ultra Instinct Mode…
-
+</pre>
 
 </div>
 
-<p align="center">🌈━━━━━━━━━━💛⚡💛━━━━━━━━━━🌈</p>
+<br/>
 
-<!-- 🐉 ANIME CHARACTER CARD -->
-<div align="center">
+<!-- 🐉 CHARACTER POWER PANEL -->
+<div align="center" style="
+background: linear-gradient(135deg, #1a1a1a, #000000);
+padding: 25px;
+border-radius: 22px;
+border: 2px solid #ffdd33;
+box-shadow: 0 0 25px #ffdd33, 0 0 65px #7d41ff;
+width: 85%;
+">
 
-<img src="https://media.tenor.com/n4J4vNysGEgAAAAC/zenitsu-agatsuma-anime.gif" width="200" style="filter: drop-shadow(0 0 25px #ffdd33);">
+<img src="https://media.tenor.com/n4J4vNysGEgAAAAC/zenitsu-agatsuma-anime.gif" 
+     width="200"
+     style="filter:drop-shadow(0 0 20px #ffdd33); margin-bottom:10px;" />
 
-### 🎮 **Thunder Form — Character Stats**
+<h2 style="color:#ffdd33; text-shadow:0 0 15px #ffdd33;">
+🎮 Thunder Form — Character Stats
+</h2>
 
-| Attribute | Power Level |
-|----------|-------------|
-| ⚡ Speed Mode | 🌩️🌩️🌩️🌩️🌩️🌩️ |
-| 🧠 Brainpower | 💜💜💜💜 |
-| 👨‍💻 Coding Rage | 🔥🔥🔥🔥🔥 |
-| 🌀 Gojo Focus | ♾️♾️♾️♾️♾️ |
-| 😭 Bug Tolerance | 😵😵 |
-| 💀 Sleep Cycle | 🚫💀 |
+<table style="width:80%; font-size:18px; color:white;">
+  <tr><td>⚡ Speed Mode</td><td>🌩️🌩️🌩️🌩️🌩️🌩️</td></tr>
+  <tr><td>🧠 Brainpower</td><td>💜💜💜💜</td></tr>
+  <tr><td>👨‍💻 Coding Rage</td><td>🔥🔥🔥🔥🔥</td></tr>
+  <tr><td>🌀 Gojo Focus</td><td>♾️♾️♾️♾️♾️</td></tr>
+  <tr><td>😭 Bug Tolerance</td><td>😵😵</td></tr>
+  <tr><td>💀 Sleep Cycle</td><td>🚫💀</td></tr>
+</table>
+
 </div>
+
+<p align="center"><img src="https://media.tenor.com/YNxUiuJ8S2sAAAAC/lightning-anime.gif" width="250"></p>
+
 
 <p align="center">💥━━━━━━━━━━⚡🔥⚡━━━━━━━━━━💥</p>
 <p align="center">━━━━━━━━━━⚡━━━━━━━━━━</p>
@@ -159,7 +219,6 @@ a developer powered by anime energy + GenZ chaos + caffeine.
 
 ✨ "Driven by curiosity, powered by technology, and fueled by innovation!" Let's collaborate or connect! 💬
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-divxnshh" alt="im-divxnshh" /></a></p>
 
 
 
