@@ -4,22 +4,24 @@
 
 <br clear="both">
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-<div align="center">
+<!-- ROW 1 -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg?v=1" width="700" />
+  <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg?v=3" width="450" />
 
-  <br/><br/>
-
-  <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg?v=1" width="700" />
+  <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg?v=3" width="450" />
 
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=im-divxnshh&theme=merko" alt="GitHub Streak" /></a>
-  
+<br/>
+
+<!-- ROW 2 (centered under both) -->
+<div align="center" style="margin-top: -10px;">
+  <img src="https://im-divxnshh.github.io/stats-server/svg/streak.svg?v=3" width="500" />
 </div>
+
 
 
 
