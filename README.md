@@ -82,7 +82,7 @@ I build aesthetic, fast interfaces that hit like **Thunderclap & Flash ⚡**.
 </div>
 
 
-# Initializing Anime Thunder Terminal...
+# Initializing  Thunder Terminal...
 
 sahil@github:~$ systemctl start thunder-mode
 >> Thunder Mode Activated ⚡
@@ -112,7 +112,7 @@ sahil@github:~$ _
 
 ---
 
-# 🐉 Anime Character — Thunder Form ⚡  
+# 🐉 Divyansh's Character — Thunder Form ⚡  
 <div align="center">
 
 <img src="https://media.tenor.com/n4J4vNysGEgAAAAC/zenitsu-agatsuma-anime.gif" width="200"/>
