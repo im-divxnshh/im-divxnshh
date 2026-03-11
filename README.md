@@ -81,37 +81,6 @@ I build aesthetic, fast interfaces that hit like **Thunderclap & Flash ⚡**.
 
 </div>
 
-
-# Initializing  Thunder Terminal...
-
-sahil@github:~$ systemctl start thunder-mode
->> Thunder Mode Activated ⚡
-
-sahil@github:~$ load --modules "fullstack ai ml devops web3 neon-ui"
->> Modules Loaded Successfully ✓
-
-sahil@github:~$ status --developer
-╔════════════════════════════════════════════╗
-║        🚀  SAHIL'S CYBER TERMINAL v5       ║
-╠════════════════════════════════════════════╣
-║ ⚡ ROLE        : Full-Stack Developer       ║
-║ 🧠 FOCUS       : AI/ML + Data Engineering   ║
-║ 🔗 WEB3        : Smart Contracts, DApps     ║
-║ 🚀 DEVOPS      : CI/CD • Docker • Pipelines ║
-║ 😼 POWER SOURCE: Cat GIF Overload           ║
-║ 🌀 MODE        : ULTRA INSTINCT ACTIVATED   ║
-╚════════════════════════════════════════════╝
-
-sahil@github:~$ echo "Unleashing Thunderclap & Flash..."
-⚡⚡⚡ THUNDER EXECUTION DEPLOYED ⚡⚡⚡
-
-sahil@github:~$ _
-
-
-
-
----
-
 # 🐉 Divyansh's Character — Thunder Form ⚡  
 <div align="center">
 
