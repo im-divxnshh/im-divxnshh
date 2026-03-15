@@ -72,14 +72,7 @@ I build aesthetic, fast interfaces that hit like **Thunderclap & Flash ⚡**.
 
 ---
 
-# 🧪 Cyber Terminal — Ultra Instinct Mode  
-<div align="center">
 
-<img src="https://media.tenor.com/3bTxZ4Hd6K8AAAAC/cat-computer.gif" width="160"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?color=%23A78BFA&size=22&center=true&vCenter=true&width=650&lines=Accessing+Sahil's+Dev+Terminal...;Loading+Modules...;System+Online+⚡" />
-
-</div>
 
 # 🐉 Divyansh's Character — Thunder Form ⚡  
 <div align="center">
@@ -107,9 +100,9 @@ I build aesthetic, fast interfaces that hit like **Thunderclap & Flash ⚡**.
 <!-- ROW 1 -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="https://im-divxnshh.github.io/stats-server/svg/stats.svg?v=3" width="450" />
+ https://github-readme-stats.vercel.app/api/top-langs?username=im-divxnshh&show_icons=true&locale=en&layout=compact&theme=radical
 
-  <img src="https://im-divxnshh.github.io/stats-server/svg/langs.svg?v=3" width="450" />
+ https://github-readme-stats.vercel.app/api?username=im-divxnshh&show_icons=true&theme=radical
 
 </div>
 
