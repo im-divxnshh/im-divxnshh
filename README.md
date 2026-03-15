@@ -12,7 +12,7 @@
 
 # ⚡ About Me
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl1eDN4aWRnN3Nid2o3dDdxZDhubjZnYTA0ZXZsZHpramdlMTYxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.webp" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
 <span style="color:#58A6FF;">👋 Hi, I'm</span> <strong style="color:#FFD93D;">Divyansh Chauhan (Sahil)</strong><br>
