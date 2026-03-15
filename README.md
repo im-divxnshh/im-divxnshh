@@ -1,151 +1,206 @@
-<!-- 🔥 ANIME THUNDER INTRO -->
+<!-- ⚡ ANIME THUNDER INTRO -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD93D&size=32&center=true&vCenter=true&width=900&lines=⚡+DIVYANSH+CHAUHAN+%7C+SAHIL+⚡;Full-Stack+Developer+%7C+Thunder+Coder;Building+Modern+Web+%2B+AI+%2B+Automation+Systems;Anime-Fueled+Productivity+%7C+Gen-Z+Tech+Vibes" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=FFD93D&center=true&vCenter=true&width=900&lines=⚡+DIVYANSH+CHAUHAN+⚡;Full+Stack+Developer;AI+%7C+Web3+%7C+Automation;Anime+Powered+Coding+Energy" />
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="250"/>
+<img src="https://media1.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="280"/>
 </p>
 
 ---
 
-# ⚡ About Me — Thunder Mode  
-<div align="center">
+# ⚡ About Me
 
-<img src="https://media.tenor.com/fCpbCzsB2-kAAAAC/zenitsu.gif" width="180"/>
+<p align="center">
+<img src="https://media.tenor.com/fCpbCzsB2-kAAAAC/zenitsu.gif" width="200"/>
+</p>
 
-### ⚡ **Divyansh (Sahil) — The Thunder Developer**
+### ⚡ Divyansh (Sahil) — Thunder Developer
 
-A full-stack developer with anime energy, Gen-Z chaos and caffeine-powered productivity.  
-I build aesthetic, fast interfaces that hit like **Thunderclap & Flash ⚡**.
+Full-Stack Developer building **modern web apps, AI experiments and automation systems.**
 
-</div>
-
----
-
-## 🚀 What I Do  
-<div align="center">
-
-- ⚡ Full Stack Web & Mobile Development  
-- 🧠 AI / Machine Learning Experiments  
-- 🔗 Web3 & Blockchain Exploration  
-- 🛠 Automation + DevOps Pipelines  
-- 🎨 Neon UI / Anime-Themed Design  
-
-🔥 Leveling up like a shonen hero  
-🐱 Cat-GIF powered productivity  
-⚡ Forever in Thunder Mode  
-</div>
+⚡ Clean UI
+⚡ Fast systems
+⚡ AI-powered tools
+⚡ Anime fueled productivity
 
 ---
 
-### 🎮 Developer XP Progress
+# 🚀 Developer Level System
 
-🟣 **Front-end**  
-`██████████░░░░░░` 70%
+🟣 **Frontend**
 
-💛 **Back-end**  
-`█████████░░░░░░░` 65%
+```
+██████████░░░░░░ 70%
+```
 
-🔵 **AI / Machine Learning**  
-`███████░░░░░░░░░` 50%
+💛 **Backend**
 
-⚡ **Web3 / Blockchain**  
-`█████░░░░░░░░░░░` 40%
+```
+█████████░░░░░░░ 65%
+```
 
-🛠 **DevOps**  
-`███████████░░░░░` 75%
+🔵 **AI / ML**
 
+```
+███████░░░░░░░░░ 50%
+```
+
+⚡ **Web3**
+
+```
+█████░░░░░░░░░░░ 40%
+```
+
+🛠 **DevOps**
+
+```
+███████████░░░░░ 75%
+```
 
 ---
 
-# 🔮 Neon Skill Badges  
-<div align="center">
+# 🎮 Developer RPG Stats
 
-<img src="https://img.shields.io/badge/⚡_Full_Stack-7D41FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Engineer-A78BFA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web3_Explorer-FFD93D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DevOps_Automator-FF7EDB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI/UX_Neon_Designer-34D399?style=for-the-badge" />
-
-</div>
+| Attribute         | Level           |
+| ----------------- | --------------- |
+| ⚡ Speed Coding    | 🌩️🌩️🌩️🌩️🌩️ |
+| 🧠 Brain Power    | 💜💜💜💜        |
+| 🔥 Bug Fighting   | 🔥🔥🔥🔥🔥      |
+| 💀 Sleep Schedule | ❌               |
+| 🧋 Caffeine Level | ♾️              |
 
 ---
 
+# 🎨 Neon Skill Badges
 
+<p align="center">
 
-# 🐉 Divyansh's Character — Thunder Form ⚡  
-<div align="center">
+<img src="https://img.shields.io/badge/FullStack-7D41FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Engineer-A78BFA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web3_Explorer-FFD93D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-Automation-FF7EDB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neon_UI_Designer-34D399?style=for-the-badge"/>
 
-<img src="https://media.tenor.com/n4J4vNysGEgAAAAC/zenitsu-agatsuma-anime.gif" width="200"/>
+</p>
 
-| Attribute | Power |
-|----------|--------|
-| ⚡ Speed Mode | 🌩️🌩️🌩️🌩️🌩️🌩️ |
-| 🧠 Brainpower | 💜💜💜💜 |
-| 👨‍💻 Coding Rage | 🔥🔥🔥🔥🔥 |
-| 🌀 Gojo Focus | ♾️♾️♾️♾️♾️ |
-| 😭 Bug Tolerance | 😵😵 |
-| 💀 Sleep Cycle | 🚫💀 |
+---
 
-</div>
+# 💻 Tech Stack
 
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php,solidity,react,next,node,express,mongodb,mysql,aws,firebase,nginx,figma,vite,docker" />
 
-<p align="center">💥━━━━━━━━━━⚡🔥⚡━━━━━━━━━━💥</p>
-<p align="center">━━━━━━━━━━⚡━━━━━━━━━━</p>
+</p>
+
+---
 
 # 📊 GitHub Stats
 
-<!-- ROW 1 -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<p align="center">
 
- https://github-readme-stats.vercel.app/api/top-langs?username=im-divxnshh&show_icons=true&locale=en&layout=compact&theme=radical
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=im-divxnshh&show_icons=true&theme=radical"/>
 
- https://github-readme-stats.vercel.app/api?username=im-divxnshh&show_icons=true&theme=radical
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-divxnshh&layout=compact&theme=radical"/>
 
-</div>
+</p>
 
+<p align="center">
 
+<img src="https://streak-stats.demolab.com?user=im-divxnshh&theme=radical"/>
 
-<br/>
-
-<!-- ROW 2 (centered under both) -->
-<div align="center" style="margin-top: -10px;">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=im-divxnshh&theme=merko" alt="GitHub Streak" /></a></div>
-
-
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=im-divxnshh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<img align="right" height="250" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" alt="GIF" />
-
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=im-divxnshh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+# 🏆 GitHub Trophies
 
-<p align="center">━━━━━━━━━━⚡━━━━━━━━━━</p>
+<p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=im-divxnshh&theme=radical&no-frame=true&margin-w=10&row=1"/>
 
-## 🌐 Socials:
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1079830707339268327) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570796335159) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itz_divy4sh/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divaysnh-chauhan-0b9685342/) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%238BC34A.svg?logo=WhatsApp&logoColor=white)](https://wa.me/9719688888) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:divyansh20060@gmail.com)
+---
 
-✨ "Driven by curiosity, powered by technology, and fueled by innovation!" Let's collaborate or connect! 💬
+# 📈 Contribution Graph
 
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-divxnshh&theme=react-dark"/>
 
+</p>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/im-divxnshh/im-divxnshh/output/snake.svg" alt="Snake animation" />
+# 🔝 Top Contributions
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=im-divxnshh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://discord.com/users/1079830707339268327">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/itz_divy4sh/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/divaysnh-chauhan-0b9685342/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:divyansh20060@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/im-divxnshh/im-divxnshh/output/snake.svg"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=im-divxnshh\&icon=0\&color=6)
+
+</p>
+
+---
+
+# 💬 Dev Quote
+
+<p align="center">
+
+“Code like a ninja, debug like a detective, deploy like a boss.”
+
+</p>
+
+---
+
+<p align="center">
+
+⚡ **Always building. Always learning. Always leveling up.**
+
+</p>
