@@ -257,7 +257,7 @@ Ethereum • Web3.js • Ethers.js • Hardhat • MetaMask
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=im-divxnshh&theme=radical&no-frame=true&margin-w=10&row=1"/>
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=im-divxnshh&theme=dracula&column=11"/>
 
 </p>
 
